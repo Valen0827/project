@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Café con Croissant",
+      "img": "https://media.istockphoto.com/id/670957540/es/foto/caf%C3%A9-y-un-croissant.jpg?s=612x612&w=0&k=20&c=3od7CgX0S_4GrgDox9nGR67g2O1LC5j_AsmHAwnYMAc=",
+      "price": 19.999,
+      "description": "Disfruta de un Café acompañado con un delicioso Croissant recien horneado",
+      "type": "combo"
+    },
+    {
+      "id": 2,
+      "title": "Tartas",
+      "img": "https://media.istockphoto.com/id/183875884/es/foto/gran-variedad-de-tartas-y-pasteles.jpg?s=612x612&w=0&k=20&c=wul0_D7IyTCn-3hlD8LhMgU9nBmyMpD93Pbc3WRnUGA=",
+      "price": 25.999,
+      "description": "Combo de tarta de Frambuesa y Chocolate con Avellanas",
+      "type": "combo"
+    },
+    {
+      "id": 3,
+      "title": "Tarta de Limon",
+      "img": "https://media.istockphoto.com/id/866822818/es/foto/tarta-de-lim%C3%B3n-sobre-la-mesa-con-frutas-c%C3%ADtricas-tarta-de-masa-dulce-francesa-tradicional.jpg?s=612x612&w=0&k=20&c=Y4xgKULPekWAYXXnrEFqJdGi3Fk0iJPaJ1Hy8VU5YkI=",
+      "price": 21.999,
+      "description": "Tarta de Limon con sabor a frutas citricas y crema",
+      "type": "combo"
+    },
+    {
+      "id": 4,
+      "title": "Bocados Pasteleros",
+      "img": "https://media.istockphoto.com/id/518468635/es/foto/pasteler%C3%ADa-francesa-en-mostrar-una-tienda-de-productos-de-confiter%C3%ADa.jpg?s=612x612&w=0&k=20&c=1FWNKtCVnnHcjdgG4_Bj0MvmUxOlFmcCEww_Uv-zpbw=",
+      "price": 29.999,
+      "description": "Disfruta de cuatro bocados pasteleros a un gran precio",
+      "type": "individuales"
+    },
+    {
+      "id": 5,
+      "title": "Mini Antojos",
+      "img": "https://media.istockphoto.com/id/496564915/es/foto/pan-y-buns.jpg?s=612x612&w=0&k=20&c=v8SzuZIitjFLG8QCJosYOTBC8pD1U_FAiHSPI5MuuLg=",
+      "price": 5.999,
+      "description": "Lleva una de estas opciones de panecitos horneadas ",
+      "type": "individuales"
+    },
+    {
+      "id": 6,
+      "title": "Bocaditos",
+      "img": "https://media.istockphoto.com/id/1407312633/es/foto/profiteroles-caseros-con-crema.jpg?s=612x612&w=0&k=20&c=E8vQEfX5eEoywqrGPH_KxgIM1KWdaAwSbUCY-EcIdw0=",
+      "price": 29.99,
+      "description": "Disfruta de estos bocaditos individuales o en combo.",
+      "type": "individuales"
+    }
+  ]
+  
+  
